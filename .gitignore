@@ -1,0 +1,3 @@
+/.rabbitmq_data
+/publish-app/node_modules
+/receive-app/node_modules
